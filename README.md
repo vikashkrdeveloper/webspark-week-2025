@@ -42,7 +42,7 @@ This repo is meant for **students of GEC Siwan (2024 batch, 2nd semester)** to:
 1. Clone this repo:  
    ```bash
    git clone https://github.com/vikashkrdeveloper/webspark-week-2025.git
-````
+   ```
 
 2. Open each day’s folder in VS Code or any editor.
 3. Run the `.html` files in your browser.
@@ -50,9 +50,20 @@ This repo is meant for **students of GEC Siwan (2024 batch, 2nd semester)** to:
 
 ---
 
-✍️ Maintained by: **Vikash Kumar**
-(Workshop Organizer & Instructor, CSE Department, GEC Siwan)
+## 👥 Student Coordinator & Volunteers
 
-```
+**Student Coordinator:**  
+- Vikash Kumar (CSE, 2024 batch)
+
+**Volunteer Coordinators (Junior, 2023 batch):**  
+- Ashish Gupta  
+- Sandeep  
+- Deepak  
+- ...  
+
+---
+
+✍️ Maintained by: **Vikash Kumar**  
+(Workshop Organizer & Instructor, CSE Department, GEC Siwan)
 
 ---
