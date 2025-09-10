@@ -1,7 +1,7 @@
 # WebSpark Week 2025 – Junior Edition
 
 This repository is for my **college workshop** on **Web Development**, organized by the  
-**CSE Department, Government Engineering College, Siwan** from **8th – 15th Sept 2025**.
+**CSE Department, Government Engineering College, Siwan** from **9th – 15th Sept 2025**.
 
 It contains all the **source codes, examples, and assignments** that I taught during the workshop.
 
