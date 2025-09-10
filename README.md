@@ -74,7 +74,7 @@ This repo is meant for **students of GEC Siwan (2024 batch, 2nd semester)** to:
 ## 👨‍🏫 Faculty Incharge
 
 - Dr. Himanshu Kumar Singh
-- Dr. Pritam Amrit Kumar
+- Dr. Pritam Amrit
 
 ---
 
